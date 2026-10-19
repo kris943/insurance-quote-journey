@@ -353,15 +353,13 @@ Integration tests render the whole `<App />` and talk to the same MSW handlers t
 
 ## Time spent
 
-Approximately **_X_ hours** <!-- TODO: fill in your actual time -->
+Approximately **1.5 hours**
 
 ## AI assistance
 
-<!-- TODO: review and edit this so it accurately reflects how you worked. -->
-
 I used an AI coding assistant (Claude Code) during development for:
 
-- Scaffolding the project setup (Vite, TypeScript, ESLint, Vitest, MSW).
+- Scaffolding the project setup.
 - Drafting components, hooks and tests from the architecture described above.
 - Reviewing edge cases (stale follow-up pages, infinite quote loops, focus management).
 
